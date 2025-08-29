@@ -1,0 +1,15 @@
+# requirements.txt
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+xgboost
+lightgbm
+shap
+scikit-optimize
+joblib
+flaml
+tensorflow

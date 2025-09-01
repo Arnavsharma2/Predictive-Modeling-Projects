@@ -1,0 +1,1 @@
+In this project I predict customer churn using models including Linear Regression, Random Forest, and, XGBoost. By utilizing feature engineering I optimized the prediction accuracy with the data at hand. I ended up with an R^2 or accuracy of 0.29% which was the optimal score for this dataset.
